@@ -1,0 +1,53 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Bb]in/
+[Oo]bj/
+
+# ASP.NET Core files
+project.lock.json
+project.fragment.lock.json
+*.db
+*.sln.ide
+
+# Visual Studio Code files
+.vscode/
+.history/
+
+# Azure Web App publish settings
+publish/
+
+# NuGet packages
+*.nupkg
+**/packages/*
+!**/packages/build/
+!**/packages/build/PackageScripts/
+!**/packages/build/PackageFiles/
+
+# JetBrains Rider files
+.idea/
+
+# Rider specific files
+.idea/
+*.sln.iml
+
+# Mac specific files
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Secret configuration files
+
+secrets.json
